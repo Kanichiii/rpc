@@ -1,0 +1,9 @@
+{ 
+	"applicationid":"",
+ 	"name":"text 1",
+ 	"details":"text 2",
+ 	"state":"text 3",
+ 	"imagename":"img1",
+  "smallimgname": "img2",
+ 	"type":"PLAYING"
+}
